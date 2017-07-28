@@ -7,7 +7,7 @@ My i3-wm config files, using i3-gaps.
 - Requires I3
 - Works with I3-gaps also
 
-##usage
+### usage
 install window manager
 sudo apt-get install i3
 
